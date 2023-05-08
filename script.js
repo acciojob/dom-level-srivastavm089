@@ -1,1 +1,1 @@
-alert(document.getElementById('level').innerText)
+alert(`The level of the element is: ${document.getElementById('level').innerText}`)
